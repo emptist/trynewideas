@@ -4,9 +4,12 @@
 # but you can also edit it by hand.
 
 meteor-platform
-autopublish
-insecure
 accounts-base
 accounts-password
 wenape:accounts-guest
+coffeescript
+mizzao:bootstrap-3
+sacha:spin
+mrt:accounts-ui-bootstrap-3-blaze
+strngs:comet
 
