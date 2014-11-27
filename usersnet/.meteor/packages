@@ -4,9 +4,11 @@
 # but you can also edit it by hand.
 
 meteor-platform
-autopublish
-insecure
 accounts-base
 accounts-password
 wenape:accounts-guest
+mizzao:user-status
+yogiben:admin
+accounts-ui
+mizzao:bootstrap-3
 
