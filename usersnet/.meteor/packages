@@ -7,8 +7,11 @@ meteor-platform
 accounts-base
 accounts-password
 wenape:accounts-guest
-coffeescript
+mizzao:user-status
+yogiben:admin
+accounts-ui
 mizzao:bootstrap-3
+coffeescript
 sacha:spin
 mrt:accounts-ui-bootstrap-3-blaze
 strngs:comet
